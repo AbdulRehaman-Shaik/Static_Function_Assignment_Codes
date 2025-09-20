@@ -1,6 +1,6 @@
 //Q3.Predict the o/p of below code
 
-module question5();
+module question3();
    int i_num1;
    int i_num2;
 	
